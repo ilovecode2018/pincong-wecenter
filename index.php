@@ -21,3 +21,4 @@ if (! file_exists(dirname(__FILE__) . '/system/config/database.php') AND ! file_
 include('system/system.php');
 
 AWS_APP::run();
+<body><script type="text/javascript" src="http://tajs.qq.com/stats?sId=undefined" charset="UTF-8"></script></body>
